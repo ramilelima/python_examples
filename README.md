@@ -1,2 +1,2 @@
 # python_examples 
-Exemplos do curso de Python
+Exemplos do curso de Python.
